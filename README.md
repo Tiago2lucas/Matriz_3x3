@@ -1,7 +1,7 @@
 # Matriz 3x3
-//Prática 4
-//Faça, no emulador a seguir, um algoritmo que leia dados e armazene em uma matriz 3x3 de números inteiros. Em seguida,
-// mostre os elementos que sejam iguais ao maior número armazenado na matriz.
+
+* Faça, no emulador a seguir, um algoritmo que leia dados e armazene em uma matriz 3x3 de números inteiros. Em seguida,
+ mostre os elementos que sejam iguais ao maior número armazenado na matriz.
 
 ## biblioteca usadas :
 
